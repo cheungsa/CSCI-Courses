@@ -757,7 +757,7 @@ int writeGSBMP(const char* filename, unsigned char **outputImage,int height,int 
         }
    //fwrite(tempGSImage, sizeof(unsigned char), height*width, file);
    fclose(file);
-   return 0;
+   return 0; 
 }
 
 
