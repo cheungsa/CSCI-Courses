@@ -182,7 +182,7 @@ int main(int argc, char *argv[])
                cout << (*snetwork.getconnections())[path[i]].getname();
                if (i != path.size()-1)
                {
-                  cout << " -> ";
+                  cout << " -> "; 
                }
             }
             cout << endl;            
