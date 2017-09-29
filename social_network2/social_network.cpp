@@ -104,7 +104,7 @@ int main(int argc, char *argv[])
       }     
    
       // Option 5: list friends
-      else if (option == 5)
+      else if (option == 5) 
       {
          // print all the friends of user and their info in table format
          string selected;
