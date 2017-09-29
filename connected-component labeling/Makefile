@@ -9,6 +9,6 @@ clean:
 	$(CXX) -c $*.cpp -o $*.o -g
 
 label: label.cpp queue.o bmplib.o
-	$(CXX) $@.cpp queue.o bmplib.o -o $@ -g
+	$(CXX) $@.cpp queue.o bmplib.o -o $@ -g 
 
 
