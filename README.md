@@ -1,2 +1,2 @@
 # Class-Projects
-Small project assignments from CSCI courses at USC
+Small project assignments (written in C++) from CSCI courses at USC
